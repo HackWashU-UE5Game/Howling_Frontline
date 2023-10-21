@@ -8,4 +8,4 @@
 
 ### Bug Fixes
 - Made it so the player could not spam attacking, must wait for the attack animation to finish
-- 
+- Fixed issue where the player's attack would not hit the dragon enemies
