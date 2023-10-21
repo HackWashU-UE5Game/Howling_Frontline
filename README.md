@@ -1,4 +1,5 @@
 # Howling Frontline Dev Log
+## Developers: Jackson McCall, Jack(Xinyu) Li, Nick(Qinzhou) Song
 
 ## Patch Notes for 10/21/23
 
