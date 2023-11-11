@@ -1,6 +1,20 @@
 # Howling Frontline Dev Log
 ## Developers: __Jackson McCall__, __Jack(Xinyu) Li__, __Nick(Qinzhou) Song__
 
+## Patch Notes for 11/11/23
+
+### Features
+
+### Bug Fixes
+
+### Known bugs
+- After opening and then closing shop/inventory, the players movement is a LOT less responsive
+- Enemy AI attacking still hits player even if player is far away at the end of the attack animation
+- Health and Power potions do not do anything
+- After exiting shop/inventory, the player could no longer attack, likely same delay associated with movement
+- Cannot see a CameraBoom object attached to player, providing difficulties when trying to implement a zoom feature for the camera
+
+---
 ## Patch Notes for 10/21/23
 
 ### Features
