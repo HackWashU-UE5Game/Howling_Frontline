@@ -4,15 +4,17 @@
 ## Patch Notes for 11/11/23
 
 ### Features
+- Added in camera zooming for player, scroll mouse wheel in to zoom in and scroll mouse wheel out to zoom out.
 
 ### Bug Fixes
+- Realized that a "Camera Boom" is just a spring arm renamed...
 
 ### Known bugs
 - After opening and then closing shop/inventory, the players movement is a LOT less responsive
 - Enemy AI attacking still hits player even if player is far away at the end of the attack animation
 - Health and Power potions do not do anything
 - After exiting shop/inventory, the player could no longer attack, likely same delay associated with movement
-- Cannot see a CameraBoom object attached to player, providing difficulties when trying to implement a zoom feature for the camera
+
 
 ---
 ## Patch Notes for 10/21/23
