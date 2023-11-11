@@ -9,12 +9,14 @@
 ### Bug Fixes
 - Realized that a "Camera Boom" is just a spring arm renamed...
 
-### Known bugs
+### Known Bugs
 - After opening and then closing shop/inventory, the players movement is a LOT less responsive
 - Enemy AI attacking still hits player even if player is far away at the end of the attack animation
 - Health and Power potions do not do anything
 - After exiting shop/inventory, the player could no longer attack, likely same delay associated with movement
 
+### To-Do List
+- Use character creation system to implement the changing of weapon meshes for the player
 
 ---
 ## Patch Notes for 10/21/23
