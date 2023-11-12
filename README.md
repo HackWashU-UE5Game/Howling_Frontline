@@ -8,16 +8,18 @@
 
 ### Bug Fixes
 - Realized that a "Camera Boom" is just a spring arm renamed...
+- Player can only be damaged inside the enemy's sphere collider used for attack detection.
 
 ### Known Bugs
 - After opening and then closing shop/inventory, the players movement is a LOT less responsive
-- Enemy AI attacking still hits player even if player is far away at the end of the attack animation
+- Enemy AI's sphere collider for attacking detection is only generated at one location on the map, cannot be generated in front of the enemy, but other enemies inside the sphere take damage too.
 - Health and Power potions do not do anything
 - After exiting shop/inventory, the player could no longer attack, likely same delay associated with movement
 
 ### To-Do List
 - Use character creation system to implement the changing of weapon meshes for the player
-
+- Keep fixing the enemy's sphere bug
+  
 ---
 ## Patch Notes for 10/21/23
 
